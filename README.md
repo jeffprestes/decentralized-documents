@@ -1,3 +1,7 @@
+# Decentralized Documents
+
+This project aims to demonstrate how to combine React, IPFS, Solidity and Ethers JS to store documents in IPFS and register them into Ethereum Smart Contract 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
