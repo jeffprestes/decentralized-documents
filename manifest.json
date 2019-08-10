@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "IPFS & Smart Contract",
+  "name": "IPFS storage and file indexing using Ethereum Smart Contract",
   "icons": [
     {
       "src": "favicon.ico",
