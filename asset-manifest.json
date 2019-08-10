@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/decentralized-documents/static/css/main.2cce8147.chunk.css",
-    "main.js": "/decentralized-documents/static/js/main.951d980a.chunk.js",
-    "main.js.map": "/decentralized-documents/static/js/main.951d980a.chunk.js.map",
-    "runtime~main.js": "/decentralized-documents/static/js/runtime~main.cce8dcb2.js",
-    "runtime~main.js.map": "/decentralized-documents/static/js/runtime~main.cce8dcb2.js.map",
-    "static/js/2.8192ba38.chunk.js": "/decentralized-documents/static/js/2.8192ba38.chunk.js",
-    "static/js/2.8192ba38.chunk.js.map": "/decentralized-documents/static/js/2.8192ba38.chunk.js.map",
+    "main.js": "/decentralized-documents/static/js/main.6096df82.chunk.js",
+    "main.js.map": "/decentralized-documents/static/js/main.6096df82.chunk.js.map",
+    "runtime~main.js": "/decentralized-documents/static/js/runtime~main.e3f6d4ce.js",
+    "runtime~main.js.map": "/decentralized-documents/static/js/runtime~main.e3f6d4ce.js.map",
+    "static/js/2.1b2c13d3.chunk.js": "/decentralized-documents/static/js/2.1b2c13d3.chunk.js",
+    "static/js/2.1b2c13d3.chunk.js.map": "/decentralized-documents/static/js/2.1b2c13d3.chunk.js.map",
     "index.html": "/decentralized-documents/index.html",
-    "precache-manifest.bb3fc6b8c075ea749d476d1140c9f619.js": "/decentralized-documents/precache-manifest.bb3fc6b8c075ea749d476d1140c9f619.js",
+    "precache-manifest.7d8e100fcc81135492223fb71b7af0ef.js": "/decentralized-documents/precache-manifest.7d8e100fcc81135492223fb71b7af0ef.js",
     "service-worker.js": "/decentralized-documents/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/decentralized-documents/static/css/main.2cce8147.chunk.css.map"
   }
