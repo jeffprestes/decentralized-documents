@@ -1,5 +1,5 @@
 const contractDefinitions = {
-  address: '0x9fc1be96d5c0299ba96ba12576c84f8cecf61477',
+  address: '0x0be1fac9f474c185c7138f983ac55d9c41635351',
   abi: [
     {
       "constant": false,

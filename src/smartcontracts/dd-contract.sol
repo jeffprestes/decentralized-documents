@@ -22,8 +22,7 @@ contract IPFSInbox {
     // A function that takes in the receiver's address and the
     // IPFS address. Places the IPFS address in the receiver's
     // inbox.
-    function sendIPFS(address _address, string memory _ipfsHash)
-        notFull(ipfsInbox[_address])
+    function sendIPFS(address _address, string memory _ipfsHash)        
         public
     {   
        ipfsInbox[_address] = _ipfsHash;
