@@ -1,6 +1,6 @@
 {
-  "short_name": "IPFS & Smart Contract",
-  "name": "IPFS storage and file indexing using Ethereum Smart Contract",
+  "short_name": "Decentralized Documents",
+  "name": "Decentralized document storage using IPFS and file indexing using Ethereum Smart Contract",
   "icons": [
     {
       "src": "favicon.ico",
