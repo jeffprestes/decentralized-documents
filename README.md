@@ -4,6 +4,8 @@ This project aims to demonstrate how to combine React, IPFS, Solidity and Ethers
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Please visit https://jeffprestes.github.io/decentralized-documents/ to view a concrete example.
+
 ## Available Scripts
 
 In the project directory, you can run:
